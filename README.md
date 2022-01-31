@@ -2,9 +2,9 @@
 
 I am a 1st year student at International Institute of Information Technology, Naya Raipur, pursuing my bachelors in Electronics and Communications Engineering. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Telegram Badge](https://img.shields.io/badge/-synthetic_polymer-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://tx.me/synthetic_polymer)](https://www.linkedin.com/in/hbarsaiyan/)
-[![Instagram Badge](https://img.shields.io/badge/-hbarsaiyan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hbarsaiyan/)](https://instagram.com/hbarsaiyan)
 [![Gmail Badge](https://img.shields.io/badge/-hbarsaiyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hbarsaiyan@gmail.com)](mailto:hbarsaiyan@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-synthetic__polymer-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://tx.me/synthetic_polymer)](https://tx.me/synthetic_polymer)
+[![Instagram Badge](https://img.shields.io/badge/-hbarsaiyan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hbarsaiyan/)](https://instagram.com/hbarsaiyan)
 
 ## ⚡ Technologies
 
