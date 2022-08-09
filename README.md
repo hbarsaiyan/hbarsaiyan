@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Harsh Barsaiyan</h1>
 
-I am a 1st year student at International Institute of Information Technology, Naya Raipur, pursuing my bachelors in Electronics and Communications Engineering. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a 2nd year student at International Institute of Information Technology, Naya Raipur, pursuing my bachelors in Electronics and Communications Engineering. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Gmail Badge](https://img.shields.io/badge/-hbarsaiyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hbarsaiyan@gmail.com)](mailto:hbarsaiyan@gmail.com)
 [![Matrix Badge](https://img.shields.io/badge/-syntheticpolymer@envs.net-teal?style=flat-square&logo=Element&logoColor=white&link=https://matrix.to/#/@syntheticpolymer:envs.net)](https://matrix.to/#/@syntheticpolymer:envs.net)
