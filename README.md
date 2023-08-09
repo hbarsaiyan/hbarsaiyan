@@ -2,7 +2,7 @@
 
 I am a 3rd year student at International Institute of Information Technology, Naya Raipur, pursuing my bachelors in Electronics and Communications Engineering. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://harshbarsaiyan.netlify.app)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://harshbarsaiyan.netlify.app)
 [![Gmail Badge](https://img.shields.io/badge/-hbarsaiyan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hbarsaiyan@gmail.com)](mailto:hbarsaiyan@gmail.com)
 [![Matrix Badge](https://img.shields.io/badge/-syntheticpolymer@envs.net-teal?style=flat-square&logo=Element&logoColor=white&link=https://matrix.to/#/@syntheticpolymer:envs.net)](https://matrix.to/#/@syntheticpolymer:envs.net)
 [![Telegram Badge](https://img.shields.io/badge/-synthetic__polymer-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://tx.me/synthetic_polymer)](https://tx.me/synthetic_polymer)
